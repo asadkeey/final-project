@@ -1,0 +1,68 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 80px;
+}
+
+.left{
+    width:50%;
+}
+
+.right{
+    width:40%;
+}
+
+.right img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 10px;
+    
+
+}
+
+button{
+    padding:12px 25px;
+    background:orange;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    margin-top: 10px;
+}
+.asad img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 10px;
+    object-fit: cover;
+}
+.asad{
+    width: 40%;
+}
+  nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 25px;
+    
+    
+    
+  }
+footer{
+    background-color:gray;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+body{
+    background-color: skyblue;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
